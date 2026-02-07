@@ -1,2 +1,2 @@
-# Standard
-Way to use standards
+# 标准使用规范
+本文献提供了使用标准的规范。
