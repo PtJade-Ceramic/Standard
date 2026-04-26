@@ -1,4 +1,5 @@
 ---
+layout: titled
 title: 标准化　结构化阅读指南　第 1 部分： 起草依据
 English title: Standardization — Guidelines for the structural reading — Drafting justification
 showMiniToc: true

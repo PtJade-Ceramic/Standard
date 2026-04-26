@@ -1,10 +1,10 @@
 ---
+layout: titled
 title: Standard README
 ---
-
-# 标准使用规范
+## 标准使用规范
 本仓库提供了使用标准的规范。
-# 开发者注意事项
+## 开发者注意事项
 本仓库采用 [GitHub Flavored Markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)。
 
 本仓库中的 Markdown 文件使用 [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) 编辑。
