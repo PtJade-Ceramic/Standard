@@ -1,2 +1,2 @@
-- [README](README.html)
+- [README](README)
 - [PJC 1.1](PJC%201.1)
