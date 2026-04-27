@@ -1,4 +1,13 @@
 theme: jekyll-theme-primer
-markdown: kramdown
-kramdown:
-  input: Kramdown
+markdown: CommonMarkGhPages
+plugins:
+  - jekyll-commonmark-ghpages
+commonmark:
+  options:
+    - SMART
+    - FOOTNOTES
+  extensions:
+    - autolink
+    - strikethrough
+    - table
+    - tagfilter
