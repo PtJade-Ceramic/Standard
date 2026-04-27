@@ -1,3 +1,4 @@
+theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
   input: Kramdown
