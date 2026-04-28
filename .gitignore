@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Dependency lockfiles (keep in git)
+# package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: OS/IDE/VSCode等常见忽略
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build output
+/dist/
+/build/
+
+# Optional: 临时文件
+*.tmp
+*.temp
